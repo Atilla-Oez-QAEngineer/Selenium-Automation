@@ -4,5 +4,5 @@ Ein kleines Selenium-Demo-Projekt, das zeigt, wie automatisierte UI-Tests funkti
 
 ## Struktur
 
-- **src/** – Enthält den Selenium-Code (wird ab Tag 5 befüllt)
+- **src/** – Enthält den Selenium-Code
 - **screenshots/** – Screenshots von Testläufen
